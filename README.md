@@ -1,4 +1,4 @@
-# 🌐 Random Portfolio Website
+# 🌐 Random Portfolio Website Demo
 
 A simple and responsive **portfolio website** built using HTML and CSS.
 📌 This is my **first web development project**, created after following tutorials and practicing with video lessons.
@@ -59,7 +59,7 @@ Portfolio-website/
 
 ## 🚀 Live Demo
 
-🔗 [View Live Project](https://maher-elmair.github.io/Portfolio-website/)
+🔗 [View Live Project](https://maher-elmair.github.io/Random-portfolio-website-demo/)
 
 ---
 
